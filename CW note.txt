@@ -1,0 +1,14 @@
+Line 2 (Central Line): Bond Street,(0.3) Oxford Circus, Tottenham Court Road, Holborn, Chancery Lane, St. Pauls, Bank
+Line 3 (District Line): 
+
+		Kensington (Olympia)
+West Kensington, Earl's Court, South Kensington, Sloane Square, St. James Park
+		West Brompton
+
+Line 4 (Circle Line):
+
+Edgware Road, Bayswater, Notting Hill Gate, High Street Kensington, South Kensington, Sloane Square, St. James Park
+
+Line 5 (Victoria Line):
+
+Warren Street, Oxford Circus, Green Park, Victoria, Pimlico, Vauxhall
